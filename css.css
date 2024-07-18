@@ -13,8 +13,8 @@ html, body {
 .card {
     width: 1080px;
     height: 217px;
-    background: linear-gradient(to right, #1a2a4b,#4D332F,#846653 );
-    color: #BD9678;
+    background: linear-gradient(to right, #142314,#4D332F,#846653 );
+    color: #ffb259;
     padding: 40px;
     position: relative;
 
@@ -27,7 +27,7 @@ html, body {
     top: 47%;
     height: 30%;
     width: 2px;
-    background-color:#BD9678
+    background-color:#ffb259;
 ;
 }
 .left-content {
